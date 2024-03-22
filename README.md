@@ -1,4 +1,4 @@
-# Project Name
+[# Project Name
 
 Brief description of your project.
 
@@ -17,13 +17,13 @@ Brief description of your project.
 1. Clone the repository:
 
    \`\`\`bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Smith0212/JWT-Basics.git
    \`\`\`
 
 2. Navigate to the project directory:
 
    \`\`\`bash
-   cd your-project
+   cd JWT-Basics
    \`\`\`
 
 3. Install dependencies:
@@ -81,3 +81,4 @@ Contributions are welcome! Please feel free to open issues or pull requests.
 ## License
 
 This project is licensed under the [License Name](LICENSE).
+](https://github.com/Smith0212/JWT-Basics.git)https://github.com/Smith0212/JWT-Basics.git
